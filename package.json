@@ -1,7 +1,7 @@
 {
   "name": "write-all-for-dynamodb",
-  "version": "0.0.1",
-  "main": "dist/index.js",
+  "version": "0.0.2",
+  "main": "dist/writeAllForDynamoDB.js",
   "license": "MIT",
   "repository": {
     "url": "https://github.com/gyl-dev/write-all-for-dynamodb"
